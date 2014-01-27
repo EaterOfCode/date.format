@@ -21,7 +21,6 @@ and then go wild with JavaScript
 ```
 date.format.js understands all MySQL formats except `%D`
 
-[Read here more about the creation of it](http://eaterofco.de/posts/date-format)
 
 Table of available specifiers
 ==
