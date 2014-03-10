@@ -142,7 +142,7 @@ var dateFormatter = {
 			return this.getFullYear();
 		},
 		y:function(){
-			return this.getYear();
+			return this.getYear()%100;
 		},
 		"%":function(){
 			return '%';
